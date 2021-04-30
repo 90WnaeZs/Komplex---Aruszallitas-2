@@ -1,0 +1,39 @@
+body
+{
+    padding:0;
+    margin:0;
+    background-color:#17a2b8;
+}
+
+
+#hdr
+{
+    text-align:center;
+    font-size:50px;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+
+.preformatted
+{
+    float:left;
+    white-space: pre;    
+}
+
+.pad20
+{
+    padding:20px;
+}
+
+.marg20
+{
+    margin:20px;
+}
+
+.grayback
+{
+    background-color:grey;
+}
